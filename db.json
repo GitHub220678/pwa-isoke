@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Great egret","category":"Goldenrod"},
+{"id":2,"name":"Raven, white-necked","category":"Purple"},
+{"id":3,"name":"Barking gecko","category":"Crimson"},
+{"id":4,"name":"Common langur","category":"Purple"},
+{"id":5,"name":"Tenrec, tailless","category":"Red"},
+{"id":6,"name":"Grizzly bear","category":"Blue"},
+{"id":7,"name":"Tawny frogmouth","category":"Crimson"},
+{"id":8,"name":"Malay squirrel (unidentified)","category":"Mauv"},
+{"id":9,"name":"Topi","category":"Purple"},
+{"id":10,"name":"Goose, knob-nosed","category":"Yellow"},
+{"id":11,"name":"Jackrabbit, white-tailed","category":"Aquamarine"},
+{"id":12,"name":"White-throated toucan","category":"Khaki"},
+{"id":13,"name":"Phascogale, red-tailed","category":"Mauv"},
+{"id":14,"name":"Vulture, king","category":"Pink"},
+{"id":15,"name":"Buffalo, wild water","category":"Red"},
+{"id":16,"name":"Goldeneye, barrows","category":"Green"},
+{"id":17,"name":"Spotted deer","category":"Goldenrod"},
+{"id":18,"name":"Red sheep","category":"Goldenrod"},
+{"id":19,"name":"Vicuna","category":"Teal"},
+{"id":20,"name":"Gerbil (unidentified)","category":"Khaki"}
+]
+}
